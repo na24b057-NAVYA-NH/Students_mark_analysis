@@ -6,11 +6,11 @@ Student Exam Performance Analysis (Statistics in Python)
 This project analyzes student exam performance using statistical techniques implemented in Python. The objective is to identify key factors influencing student scores and derive meaningful insights through structured data analysis.
 
 **Tools & Libraries**
-pandas
-NumPy
-Matplotlib
-Seaborn
-SciPy
+* pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SciPy
 
 **Key Analysis Performed**
 * Data cleaning and preprocessing
